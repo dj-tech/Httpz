@@ -1,0 +1,1 @@
+Site web -> JavaScript  -> Api Wikipedia -> Php -> console.log (status, type, content) -> Web browser -> optional: Kernel
